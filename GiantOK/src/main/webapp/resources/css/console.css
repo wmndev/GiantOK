@@ -1,0 +1,21 @@
+#dishes {
+	background-color: #4e4e4e;
+	padding-bottom: 50px;
+	margin-top: 50px;
+}
+
+#dishes h3 {
+	color: white;
+}
+
+#dishes p {
+	color: white;
+	font-weight: 400;
+}
+#dishes table{
+	color: white;
+}
+
+.table td {
+	max-width: 200px;
+}
